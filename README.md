@@ -2,7 +2,7 @@
 ## Descrição
 - Esta é uma aplicação de painel de acompanhamento de Hábitos
 ## Recomendações
-- Para rodar o front-end integrado com o back-end, siga as recomendações do repositório: https://github.com/lucasbDev/worldCup
+- Para rodar o front-end integrado com o back-end, siga as recomendações do repositório: https://github.com/lucasbDev/habit-back
 
 ## Instalação
 
